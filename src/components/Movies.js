@@ -76,7 +76,7 @@ const Movies = () => {
                   case "checkRandom":
                     return Math.random() - 0.5;
                   default:
-                    break;
+                    return 0;
                 }
               })
               .map((movie) => <Card key={movie.id} movie={movie} />)}

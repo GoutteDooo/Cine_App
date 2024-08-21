@@ -6,7 +6,6 @@ import {
   faHeart as faHeartSolid,
 } from "@fortawesome/free-solid-svg-icons";
 import { faHeart as faHeartRegular } from "@fortawesome/free-regular-svg-icons";
-import axios from "axios";
 
 const Card = ({ movie }) => {
   const [date, setDate] = useState("");
