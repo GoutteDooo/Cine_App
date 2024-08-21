@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "font-1";
+    src: url(../assets/fonts/JosefinSans-VariableFont_wght.ttf);
+}
+
+$font-1: "font-1", boogaloo;
+$color-1: #292f66;
+$color-2: rgb(209, 84, 0);
+$bg: #222a3b;
+$white: rgb(235, 235, 235);
+$grey : rgb(80, 80, 80);
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@mixin verticalCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+body {
+    font-family: "font-1", sans-serif;
+    background: $white;
+    overflow-x: hidden;
+    margin: 10px;
+    background: $bg;
+}
+
+li {
+  list-style-type: none;
+}

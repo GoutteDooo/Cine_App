@@ -1,0 +1,41 @@
+.navigation {
+    position: relative;
+    display: flex;
+    .nav-active {
+        animation: navActive 0.4s forwards;
+        transition: 1s;
+    }
+    @keyframes navActive {
+        0% {
+            background-color: $bg;
+        }
+        100% {
+            color: $white;
+            background: $color-2;
+        }
+    }
+    ul {
+        display: flex;
+        a {
+            position: absolute;
+            @include verticalCenter;
+            text-decoration: none;
+            color: $color-2;
+            font-size: 1.2rem;
+            border-radius: 10px;
+            height: 50px;
+            &:nth-child(2) {
+                left: 100px;
+            }
+            &:hover {
+                color: $white;
+                transform: scale(1.1);
+                transition: 0.3s;
+            }
+            li {
+                @include verticalCenter;
+                margin: 10px;
+            }  
+        }
+    }
+}

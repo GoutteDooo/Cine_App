@@ -1,0 +1,193 @@
+{
+  "crushes": [
+    {
+      "id": "687e",
+      "movie": {
+        "adult": false,
+        "backdrop_path": "/e0zR3H15Gl32hLqrY5lB205RWbo.jpg",
+        "genre_ids": [
+          35,
+          18,
+          14
+        ],
+        "id": 9339,
+        "original_language": "en",
+        "original_title": "Click",
+        "overview": "Michael, travailleur forcené, entre en possession d'une télécommande qui agit sur son entourage, pouvant tout aussi bien couper le son du chien que revenir ou avancer dans sa vie. Désormais, il contrôle tout son univers. Mais la télécommande possède aussi des fonctions dont Michael ignore tout, et dont il ne va pas tarder à faire les frais.",
+        "popularity": 41.71,
+        "poster_path": "/skn7NwhV9aOYAhspLs22L1qVdnx.jpg",
+        "release_date": "2006-06-23",
+        "title": "Click : Télécommandez votre vie",
+        "video": false,
+        "vote_average": 6.286,
+        "vote_count": 6912
+      },
+      "isLiked": true
+    },
+    {
+      "id": "d6ee",
+      "movie": {
+        "adult": false,
+        "backdrop_path": "/dOQjJkNr81SQTaxk7grtKcl97XK.jpg",
+        "genre_ids": [
+          28,
+          12,
+          14
+        ],
+        "id": 122917,
+        "original_language": "en",
+        "original_title": "The Hobbit: The Battle of the Five Armies",
+        "overview": "Atteignant enfin la Montagne Solitaire, Thorin et les Nains, aidés par Bilbon le Hobbit, ont réussi à récupérer leur royaume et leur trésor. Ils ont également réveillé le dragon Smaug qui déchaîne désormais sa colère sur les habitants de Lac-ville. À présent, les Nains, les Elfes, les Humains mais aussi les Wrags et les Orques menés par le Nécromancien, convoitent les richesses de la Montagne Solitaire.",
+        "popularity": 194.19,
+        "poster_path": "/h4wjbuC61iMaCqrO3bmGQ3ibuJE.jpg",
+        "release_date": "2014-12-10",
+        "title": "Le Hobbit : La Bataille des cinq armées",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 14019
+      },
+      "isLiked": true
+    },
+    {
+      "id": "77ee",
+      "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          12
+        ],
+        "id": 231900,
+        "original_language": "fr",
+        "original_title": "Le Hobbit: La Quête du Cantal",
+        "overview": "Parodie de la trilogie du Seigneur des anneaux et du Hobbit destinée à promouvoir le Cantal. Car, c'est vrai, nos paysages du Cantal ressemblent à s'y méprendre à ceux de la Terre du Milieu !",
+        "popularity": 1.005,
+        "poster_path": "/9gbVLTYj5DPvYLsRH0UcaqatyCP.jpg",
+        "release_date": "2013-10-22",
+        "title": "Le Hobbit: La Quête du Cantal",
+        "video": false,
+        "vote_average": 6.333,
+        "vote_count": 12
+      },
+      "isLiked": true
+    },
+    {
+      "id": "a73c",
+      "movie": {
+        "adult": false,
+        "backdrop_path": "/crCC2MUWEi9AkY5C3VD96HXMSq0.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10749,
+          14
+        ],
+        "id": 33320,
+        "original_language": "ja",
+        "original_title": "千年女優",
+        "overview": "Chiyoko Fujiwara est une ancienne gloire du cinéma japonais. Aujourd'hui, âgée de 70 ans, elle vit recluse chez elle. Un jour, un homme vient lui rendre visite pour l'interviewer sur son passé. Il lui remet une clé, que Chiyoko avait perdu voilà 30 ans. Devant le journaliste et son caméraman elle se met à raconter son histoire. Une vie pleine d'amour et de passion, passée à rechercher un étrange inconnu, celui-là même qui lui a un jour remis cette clé en lui faisant la promesse de se revoir…",
+        "popularity": 22.799,
+        "poster_path": "/1KjfUZpFgnhoaYMCYFLbYDShmVl.jpg",
+        "release_date": "2002-09-14",
+        "title": "Millennium Actress",
+        "video": false,
+        "vote_average": 7.822,
+        "vote_count": 812
+      },
+      "isLiked": true
+    },
+    {
+      "id": "1af6",
+      "movie": {
+        "adult": false,
+        "backdrop_path": "/3qdg2DDLodZhj0dfra65G0EJ05i.jpg",
+        "genre_ids": [
+          10751,
+          16,
+          14
+        ],
+        "id": 260234,
+        "original_language": "en",
+        "original_title": "Monster High: Frights, Camera, Action!",
+        "overview": "Quand Draculaura est amenée à croire qu'elle est la légitime héritière du trône Vampire, elle s'enfuit avec son meilleur ami en Transylvanie pour le couronnement royal. Mais ils découvrent alors qu'elle n'est pas forcément l'élue et que la sélection des reines potentielles n'est pas encore terminée. Les Goules doivent retrouver un objet antique connu comme le Cœur du Vampire pour découvrir l'identité de la vraie Reine des Vampires. C'est une aventure fantastique qui les mènera de la Tour de Londoom, en passant par un bateau hanté dans la Nouvelle Goreleans jusqu'au quartier terriblement glamour de Hauntlywood. Draculaura va-t-elle recevoir ses pouvoirs de vampire et découvrir que ses rêves peuvent devenir réalité ?",
+        "popularity": 19.208,
+        "poster_path": "/p9QWnBYjj5U96jF5fRurRwVuAiO.jpg",
+        "release_date": "2014-03-25",
+        "title": "Monster High: Frisson, caméra, action!",
+        "video": false,
+        "vote_average": 7.378,
+        "vote_count": 127
+      },
+      "isLiked": true
+    },
+    {
+      "id": "d831",
+      "movie": {
+        "adult": false,
+        "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+        "genre_ids": [
+          12,
+          878,
+          28
+        ],
+        "id": 299534,
+        "original_language": "en",
+        "original_title": "Avengers: Endgame",
+        "overview": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvérisé « la moitié de toute forme de vie dans l'Univers », Captain America, Thor, Bruce Banner, Natasha Romanoff, War Machine, Tony Stark, Nébula et Rocket, vont essayer de trouver une solution pour ramener leurs coéquipiers disparus et vaincre Thanos en se faisant aider par Ronin alias Clint Barton, Captain Marvel et Ant-Man.",
+        "popularity": 247.491,
+        "poster_path": "/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg",
+        "release_date": "2019-04-24",
+        "title": "Avengers : Endgame",
+        "video": false,
+        "vote_average": 8.252,
+        "vote_count": 25254
+      },
+      "isLiked": true
+    },
+    {
+      "id": "b348",
+      "movie": {
+        "adult": false,
+        "backdrop_path": "/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "id": 926393,
+        "original_language": "en",
+        "original_title": "The Equalizer 3",
+        "overview": "Depuis qu'il a renoncé à sa vie d'assassin au service du gouvernement, Robert McCall peine à enterrer les démons de son passé et trouve un étrange réconfort en défendant les opprimés. Alors qu'il pense avoir trouvé un havre de paix dans le sud de l'Italie, il découvre que ses amis sont sous le contrôle de la mafia locale. Quand les évènements prennent une tournure mortelle, McCall sait exactement ce qu'il doit faire : protéger ses amis en s'attaquant directement à la pègre.",
+        "popularity": 100.674,
+        "poster_path": "/go2gtucO5LT92jnU40pbD0LImgg.jpg",
+        "release_date": "2023-08-30",
+        "title": "Equalizer 3",
+        "video": false,
+        "vote_average": 7.346,
+        "vote_count": 2809
+      },
+      "isLiked": true
+    },
+    {
+      "id": "fc9b",
+      "movie": {
+        "adult": false,
+        "backdrop_path": "/1jLaJPdu7dMl0Nk3vLuafDx9PWS.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 123678,
+        "original_language": "id",
+        "original_title": "Jagal",
+        "overview": "Lorsque Joshua Oppenheimer se rend en Indonésie pour réaliser un documentaire sur le massacre de plus d’un million d’opposants politiques en 1965, il n’imagine pas que, 45 ans après les faits, les survivants terrorisés hésiteraient à s’exprimer. Les bourreaux, eux, protégés par un pouvoir corrompu, s’épanchent librement et proposent même de rejouer les scènes d’exactions qu’ils ont commises. Joshua Oppenheimer s’empare de cette proposition dans un exercice de cinéma vérité inédit où les bourreaux revivent fièrement leurs crimes devant la caméra, en célébrant avec entrain leur rôle dans cette tuerie de masse. \"Comme si Hitler et ses complices avaient survécu, puis se seraient réunis pour reconstituer leurs scènes favorites de l’Holocauste devant une caméra\", affirme le journaliste Brian D. Johnson.  Une plongée vertigineuse dans les abysses de l’inhumanité, une réflexion saisissante sur l’acte de tuer.",
+        "popularity": 25.465,
+        "poster_path": "/krhDHzoqTC5DYDkE2kQA8504nOM.jpg",
+        "release_date": "2012-11-01",
+        "title": "The Act of Killing - L'Acte de Tuer",
+        "video": false,
+        "vote_average": 7.677,
+        "vote_count": 657
+      },
+      "isLiked": true
+    }
+  ]
+}
